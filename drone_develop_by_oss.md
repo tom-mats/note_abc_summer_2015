@@ -22,6 +22,12 @@
 
   組み込み用カスタムLinux環境を構築するためのリファレンスプラットフォーム openembeddeとも連携
 
+* Dronekit
+
+  アプリケーション開発用のSDK
+  Dronecode:小脳
+  Dronekit:大脳
+
 ## 環境
 
 * DJIが有名。７割ぐらい
