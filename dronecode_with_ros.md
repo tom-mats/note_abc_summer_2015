@@ -180,3 +180,8 @@ roslaunch px4 gazebo_iris_empty_world.launch
     * attitude_estimator_ekf
     * attitude_estimator_q
     * attitude_estimator_so3
+
+### 質問
+
+* Dronekitも接続できるのか?
+  + おなじMAVLinkなので接続できると思う

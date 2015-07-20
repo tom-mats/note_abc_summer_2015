@@ -13,3 +13,5 @@ Redmineのtextileにするにはpandocで叩けば良いようだ
 ```
 pandoc -s -S input.md, -t textile -o output.textile
 ```
+
+* FacebookにDronecodeのグループがあるので、そこでアナウンス
