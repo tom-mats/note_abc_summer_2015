@@ -185,3 +185,4 @@ roslaunch px4 gazebo_iris_empty_world.launch
 
 * Dronekitも接続できるのか?
   + おなじMAVLinkなので接続できると思う
+  * URLが表示されているので、そことつなげばなんとかなるのでは
